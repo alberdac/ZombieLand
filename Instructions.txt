@@ -1,0 +1,58 @@
+Goal:
+You must search buildings, gather supplies, and prepare yourself for the night. The goal is to create a self sustaining
+community once again. You have six main resources to manage and self sustain:
+
+1.	Health: As you clear out buildings, your groups will be injured. If the group’s health reaches zero, the entire
+	group will be lost. If you’re in said group, you lose. To make sustainable you must fortify a hospital.
+
+2.	Food:   Once your food supply has been depleted, your group will lose health. To make sustainable, you must
+	fortify three greenhouses. 
+
+3.	Water:  You must find clean sources of water such as bottled water or clean water stored in water towers. To
+	make sustainable you must fortify the water treatment plant or build three rain collectors.
+
+4.	Ammo:   You can obtain ammo by searching buildings. You do not need to sustain ammo.
+
+5.	Power:  To gather fuel to power the generators. Without them, you are much more vulnerable to attack. To make
+	sustainable, build three solar panels.
+
+6.      Morale: Maintain a good morale to keep your group together and alert. To make sustainable, fortify at least two
+        non resource buildings. (i.e. park, baseball field, etc.)
+
+Supplies: As you clear buildings, you will find materials that can help protect you such as wood, metal, and
+glass. You can use these materials to barricade, guard, and fortify your buildings. These will help keep you and your
+group safe during the night. In addition, you can use the materials to build structures to aid in your goal to create a
+self sustaining town.
+
+Every night, each building has a probability of being attacked. If a building that is housing people is attacked, you
+will be notified of the people who were killed.
+
+Groups:
+The sidebar to the right shows which people are in which group. During the day you may manage a group and switch which
+people are in which group. You may want several groups, some to venture the town in search for supplies and some to help
+protect you and each other.
+
+Building Modifications:
+ During the day, selecting a building with people in it will give you the option to modify the building. There are three
+modifications possible: 
+1.	Barricade: This is the basic form of modification by boarding up all the doors and windows.
+2.	Guard: Next is a crude palisade wall built from scraps of wood. This will cost you wood depending on the size of
+the building.
+3.	Fortify: Your best bet to stay well protected is to build a zombie proof fence. This will cost you metal depending
+on the size of the building.
+
+Clearing:
+Each building will have a probability of being attacked if entered. This probability can be reduced by the size of the
+group clearing out the building. The hospital is the only building that is required to be fortified and will be the hardest
+to clear. 
+
+
+Building:
+If you have the required materials, you can build a structure on an empty lot.
+•	Solar Panels: Power is sustained by building at least 3 solar panels. Solar panels cost wood and metal.
+•	Green Houses: Food is sustained by building at least 3 greenhouses. Greenhouses cost wood, metal, and glass.
+•	Rain Collectors:  Water is sustained by clearing and fortifying the water treatment plant or building three rain
+collectors. Rain Collectors cost wood and metal.
+Since there are a limited number of empty lots, you must determine which recourses are more important than others. Remember,
+resources can also be sustained by fortifying the appropriate building. 
+
